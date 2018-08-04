@@ -2,6 +2,12 @@
 # -*- coding: utf-8 -*-
 # Copyright (c) 2013 Spotify AB
 from graphwalker import cli
+from graphwalker import dot
+from graphwalker import dummy
+from graphwalker import gml
+from graphwalker import graphml
+from graphwalker import tgf
+from graphwalker import txt
 
 if __name__ == '__main__':
     import sys
